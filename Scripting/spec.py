@@ -115,3 +115,4 @@ print(f"Free Storage   : {free_storage:.2f} GB")
 print("=" * 40)
 
 # specs viewer tool
+# let's make it more user-friendly by adding a simple menu to view specific informations lets try itgit pull orgin main --allow-unrelated-historiesgit pull orgin main --allow-unrelated-historiesgit pull orgin main --allow-unrelated-historiesgit pull orgin main --allow-unrelated-histories
